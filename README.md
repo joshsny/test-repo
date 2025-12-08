@@ -17,3 +17,9 @@ Because they don't C#!
 What's a programmer's favorite hangout spot?
 
 The Foo Bar!
+
+## One More Programming Joke
+
+How many programmers does it take to change a light bulb?
+
+None, that's a hardware problem!
