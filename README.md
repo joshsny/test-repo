@@ -11,3 +11,9 @@ Because light attracts bugs!
 Why do Java developers wear glasses?
 
 Because they don't C#!
+
+## Yet Another Programming Joke
+
+What's a programmer's favorite hangout spot?
+
+The Foo Bar!
